@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48620792-721d-4c65-b7cb-c7ebcc80312c" name="hyperbeast.novalsystems.com">
+        <fileTransfer rootFolder="/var/www/vhosts/novalsystems.com/hyperbeast.novalsystems.com" accessType="SFTP" host="plesk.novalsystems.com" port="22" sshConfigId="e6f6940d-4705-45db-81f7-97ec0234e6e4" sshConfig="root@plesk.novalsystems.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
